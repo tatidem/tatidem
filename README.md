@@ -1,6 +1,6 @@
-# Hello! 👋 I'm Tatiana, frontend developer
+# Hello! 👋 I'm Tatiana, 
 
-Welcome to my GitHub profile! I'm a passionate and always looking to learn and improve my skills.
+Welcome to my GitHub profile! I'm a passionate frontend developer and always looking to learn and improve my skills.
 
 ### Let's Connect:
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate and always looking to learn and i
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79062482217)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tatidem)
 
-
+---
 ### Technologies I work with:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,8 +55,12 @@ Welcome to my GitHub profile! I'm a passionate and always looking to learn and i
 
 ### 👩‍💻 My Projects:
 
-- [Project 1](https://github.com/tatidem/project1) — Description of project 1
-- [Project 2](https://github.com/tatidem/project2) — Description of project 2
+| Deployed Project                               | Description & Repo                                        | Tech Stack                          |
+|------------------------------------------------|-----------------------------------------------------------|-------------------------------------|
+| [Project 1](https://deployed-link1.com)        | [Repo](https://github.com/tatidem/project1) | HTML, CSS, JavaScript               |
+| [Project 2](https://deployed-link2.com)        | [Repo](https://github.com/tatidem/project2) | React, TypeScript, Redux            |
+| [Project 3](https://deployed-link3.com)        | [Repo](https://github.com/tatidem/project3) | Angular, RxJS, NgRx                 |
+| [Project 4](https://deployed-link4.com)        | [Repo](https://github.com/tatidem/project4) | Node.js, Express, MongoDB           |
 
 
 
